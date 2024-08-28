@@ -1,4 +1,5 @@
 ---
+title: Welcome to my store
 Welcome to Yerba maté addicts store
 ---
 
