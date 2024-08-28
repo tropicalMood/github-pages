@@ -1,6 +1,5 @@
 ---
-title: Welcome to my store
-Welcome to Yerba maté addicts store
+title: Welcome to Yerba maté addicts store
 ---
 
 We offer yerba maté:
@@ -15,4 +14,4 @@ Free shipping for orders over 30€
 Contact us on this WhatsApp number (To be done)
 
 ![image](https://github.com/user-attachments/assets/c016de31-1aa8-476b-ba44-df6e498aeffa)
-
+ 
